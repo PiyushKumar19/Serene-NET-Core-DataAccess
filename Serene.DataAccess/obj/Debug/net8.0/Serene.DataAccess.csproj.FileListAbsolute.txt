@@ -1,0 +1,17 @@
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.DataAccess.deps.json
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.DataAccess.runtimeconfig.json
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.DataAccess.dll
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.DataAccess.pdb
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.Models.dll
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\bin\Debug\net8.0\Serene.Models.pdb
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.AssemblyInfo.cs
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.csproj.CopyComplete
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.dll
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\refint\Serene.DataAccess.dll
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.pdb
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\Serene.DataAccess.genruntimeconfig.cache
+C:\Users\jayan\source\repos\Serene\Serene.DataAccess\obj\Debug\net8.0\ref\Serene.DataAccess.dll
